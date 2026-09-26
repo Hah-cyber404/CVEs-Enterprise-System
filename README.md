@@ -1,6 +1,6 @@
 # CVEs Enterprise System
 
-## NÃO FINALIZADO.
+## PROJETO DESCONTINUADO.
 
 **Enterprise Attack Surface Intelligence & Exposure Validation Platform**
 
