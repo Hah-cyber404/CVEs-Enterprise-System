@@ -1,6 +1,6 @@
 # JS Intelligence Engine — Dockerfile
 # Lighter than runtime-analysis-engine: no Playwright/Chromium needed
-FROM python:3.14-slim
+FROM python:3.15-slim
 
 WORKDIR /app
 
